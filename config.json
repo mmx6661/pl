@@ -1,1 +1,25 @@
+{
+    "rezka-ua.org": {
+        "search": {
+            "items": ".b-content__inline_item",
+            "title": ".b-content__inline_item-link a",
+            "pageUrl": "a@href",
+            "thumbnail": "img@src"
+        },
+        "streams": {
+            "container": ".b-post__part",
+            "quality": ".b-post__quality",
+            "audio": ".b-post__audio",
+            "url": "iframe@data-src"
+        }
+    },
+    "filmix.my": {
+        "search": {
+            "items": ".inner.shortstory",
+            "title": ".zagolovok a",
+            "pageUrl": "a@href",
+            "thumbnail": "img@src"
+        }
+    }
+}
 
