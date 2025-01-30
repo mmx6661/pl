@@ -1,6 +1,6 @@
 # Плагин для Lampa (Rezka + Filmix)
 
-[![Установить](https://img.shields.io/badge/Установить-плагин-blue?style=for-the-badge)](https://raw.githubusercontent.com/ВАШ_ЛОГИН/РЕПОЗИТОРИЙ/main/plugin.js)
+[![Установить](https://img.shields.io/badge/Установить-плагин-blue?style=for-the-badge)](https://github.com/mmx6661/pl.git/plugin.js)
 
 Плагин для поиска фильмов на **rezka-ua.org** и **filmix.my** с поддержкой выбора качества и озвучки.
 
